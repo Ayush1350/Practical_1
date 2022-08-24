@@ -25,7 +25,7 @@ class Student(firstname:String,lastname:String,age: Int,eno:Long,branch:String,C
 fun main(){
     var s1=Student("Ayush","Patel",20,20012011078,"CE","D","AB12")
     var s2=Student("Het","Patel",21,20012011010,"CE","D","AB12")
-    var s3=Student("Kushi","Patel",18,20012011134,"CE","B","AB12")
+    var s3=Student("Kushii","Patel",18,20012011134,"CE","B","AB12")
     var s4=Student("Jainam","Patel",20,20012011123,"CE","A","AB12")
     var s5=Student("Yas","Patel",21,20012011023,"CE","C","AB12")
 }
