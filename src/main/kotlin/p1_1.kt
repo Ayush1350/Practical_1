@@ -1,8 +1,8 @@
 fun main(){
     val a: Int = 10
     val b: Float = 1.5F
-    var c: String = "Nirmal"
-    var d: Char = 'N'
+    var c: String = "AYUSH"
+    var d: Char = 'A'
     val e: Boolean = false
     val f: Double = 10.54
     val g: Long = 75934035
